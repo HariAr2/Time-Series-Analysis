@@ -18,7 +18,7 @@ Time series analysis is a crucial aspect of data science, where the primary focu
 
 ## Project Structure
 
-The project is organized into the following directories:
+The project is organized into the following :
 
 - `code`: Contains all the Python scripts and Jupyter notebooks used for data analysis and modeling `time_series_analysis.ipynb`.
 - `data`: Stores the raw and processed datasets `long_data_.csv`.
